@@ -1,6 +1,12 @@
-# Running this app
+# Contacts-simple
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Clone this repo
+
+Type: `git clone https://github.com/austinnguyen00/contacts-simple.git` in your terminal
+
+This will clone the repo to your local machine
 
 ## Download required dependencies
 
